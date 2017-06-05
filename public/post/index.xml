@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Camila Ferreira</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Camila Ferreira</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Camila</title>
+      <link>/2017/06/05/second--post/</link>
+      <pubDate>Mon, 05 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/06/05/second--post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Camila Ferreira</title>
+      <link>/2017/06/05/camila-ferreira/</link>
+      <pubDate>Mon, 05 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/06/05/camila-ferreira/</guid>
+      <description>I’m Product Manager of one of the biggest SAAS companies in Brazil. Resultados Digitais is playing an important role on the Brazilian digital marketing, providing success to medium and small business, bringing the Inbound Marketing concept through an automation platform.
+blogdown::new_post(&amp;quot;Post Title&amp;quot;, rmd = FALSE)  </description>
+    </item>
+    
+    <item>
+      <title>Product Management Blog</title>
+      <link>/2015/07/23/product-management-blog/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/2015/07/23/product-management-blog/</guid>
+      <description>Product Management BlogIf you want to know more about the author, check https://medium.com/@camilapedrosa.
+You can embed an R code chunk like this:
+summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.:19.0 3rd Qu.: 56.00 ## Max. :25.0 Max. :120.00fit &amp;lt;- lm(dist ~ speed, data = cars)fit## ## Call:## lm(formula = dist ~ speed, data = cars)## ## Coefficients:## (Intercept) speed ## -17.</description>
+    </item>
+    
+    <item>
+      <title>Camila Ferreira</title>
+      <link>/2015/01/01/camila-ferreira/</link>
+      <pubDate>Thu, 01 Jan 2015 13:09:13 -0600</pubDate>
+      
+      <guid>/2015/01/01/camila-ferreira/</guid>
+      <description>Camila´s Blog I’m passionate about how technology can bring people together, in special how the community industry impacts business successful.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/1/01/01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/1/01/01/</guid>
+      <description>Camila Ferreiracode{white-space: pre;}pre:not([class]) {background-color: white;}if (window.hljs &amp;&amp; document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) {window.setTimeout(function() {hljs.initHighlighting();}, 0);}h1 {font-size: 34px;}h1.title {font-size: 38px;}h2 {font-size: 30px;}h3 {font-size: 24px;}h4 {font-size: 18px;}h5 {font-size: 16px;}h6 {font-size: 12px;}.table th:not([align]) {text-align: left;}.</description>
+    </item>
+    
+  </channel>
+</rss>
